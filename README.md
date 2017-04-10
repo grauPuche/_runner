@@ -9,7 +9,7 @@ This is the reason to this README, **help!** I need your help to make this happe
 **To check current status go to the bottom of this README.**
 
 > I lack the time to make this possible at the moment and I'm thinking on transferring it to Unity, although I would like to stick to the browser, I'm uploading this to Github so others can help, *if they want to*, to take this project off the ground and make it possible once and for all.
-> I'm not trying to get the internet to do all the work for me, I just place this here so if somebody wants to branch it and try to make something out of it.
+> I'm not trying to get the internet to do all the work for me, I just place this here so if somebody wants to fork it and try to make something out of it.
 
 ## Intentions
 
