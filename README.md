@@ -4,7 +4,9 @@ This is a Phaser.js Project
 
 So this was, or is... a project that was supposed to be a very simple game that got out of hand. in the bad sense. anyway. It's not finished and barely working.
 
-This is the reason to this README, **help!**. I need your help to make this happen. **To check current status go to the bottom of this README.**
+This is the reason to this README, **help!** I need your help to make this happen.
+
+**To check current status go to the bottom of this README.**
 
 > I lack the time to make this possible at the moment and I'm thinking on transferring it to Unity, although I would like to stick to the browser, I'm uploading this to Github so others can help, *if they want to*, to take this project off the ground and make it possible once and for all.
 > I'm not trying to get the internet to do all the work for me, I just place this here so if somebody wants to branch it and try to make something out of it.
