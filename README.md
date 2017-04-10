@@ -2,6 +2,8 @@
 
 This is a Phaser.js Project
 
+currently this is how it looks and plays [runner.js](https://graupuche.info/runner)
+
 So this was, or is... a project that was supposed to be a very simple game that got out of hand. in the bad sense. anyway. It's not finished and barely working.
 
 This is the reason to this README, **help!** I need your help to make this happen.
