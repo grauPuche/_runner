@@ -62,7 +62,7 @@ This is where this thing is at, right now:
 
 + only one level
 + no landing page
-+ "harmful" boxes are harmless and with no collision *problems with tilesets and layers*
++ "harmful" boxes are harmless and with no collision. *Problems with tilesets and layers*
 + can't die
 + no animation when jumping
 + no animation when bumping into something
